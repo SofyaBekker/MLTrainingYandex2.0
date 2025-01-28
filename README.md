@@ -1,1 +1,4 @@
-'# MLTrainingYandex' 
+ MLTrainingYandex
+
+ Тренировки по машинному обучению 2.0 от Яндекса
+ 
